@@ -34,7 +34,7 @@
 
 
 
-  <h1> Dhanush falls under DEVOPS Team </h1>>
+  <h1> ITADVISARY Team </h1>>
 
 
   
