@@ -34,7 +34,7 @@
 
 
 
-  <h1> Cloud Team welcomes ANFAL Devops Trining classes </h1>>
+  <h1> Cloud Team welcomes ANFAL GIT Trining classes </h1>>
 
 
   
