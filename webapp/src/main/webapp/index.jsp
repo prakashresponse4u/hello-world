@@ -1,4 +1,4 @@
-<form action="action_page.php">
+to <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning at Learning cloud Team</h1>
     <p>Please fill in this form to create an account.</p>
@@ -34,7 +34,7 @@
 
 
 
-  <h1> Cloud Team welcomes ANFAL devopmewnt Trining classes </h1>>
+  <h1> Cloud Team welcomes to suresh and vijay to devops team </h1>>
 
 
   
